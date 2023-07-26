@@ -1,0 +1,2 @@
+ECHO is on.
+Here is the new text 
